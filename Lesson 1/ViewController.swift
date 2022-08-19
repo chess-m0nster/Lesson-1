@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Lesson 1
 //
-//  Created by Viktor Prikolota on 15.08.2022.
+//  Created by Viktor on 15.08.2022.
 //
 
 import UIKit
