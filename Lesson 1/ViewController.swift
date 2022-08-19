@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Lesson 1
 //
-//  Created by Viktor Prikolota on 15.08.2022.
+//  Created by Viktor on 15.08.2022.
 //
 
 import UIKit
@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        print("My name is Viktor\nI'm iOS developer")
+        print("My name is Petr\nI'm iOS developer")
     }
 
 
