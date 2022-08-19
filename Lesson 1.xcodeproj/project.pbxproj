@@ -14,6 +14,7 @@
 		7704DB5028AAD0230053C08D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7704DB4E28AAD0230053C08D /* Main.storyboard */; };
 		7704DB5228AAD0250053C08D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7704DB5128AAD0250053C08D /* Assets.xcassets */; };
 		7704DB5528AAD0250053C08D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7704DB5328AAD0250053C08D /* LaunchScreen.storyboard */; };
+		77A617E628AFFC7100D6DDD0 /* EmptyFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77A617E528AFFC7100D6DDD0 /* EmptyFile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		7704DB5128AAD0250053C08D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7704DB5428AAD0250053C08D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7704DB5628AAD0250053C08D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		77A617E528AFFC7100D6DDD0 /* EmptyFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = EmptyFile.swift; path = "/Users/viktor/Developer/Lesson-1/Lesson 1/EmptyFile.swift"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				7704DB4828AAD0230053C08D /* AppDelegate.swift */,
 				7704DB4A28AAD0230053C08D /* SceneDelegate.swift */,
 				7704DB4C28AAD0230053C08D /* ViewController.swift */,
+				77A617E528AFFC7100D6DDD0 /* EmptyFile.swift */,
 				7704DB4E28AAD0230053C08D /* Main.storyboard */,
 				7704DB5128AAD0250053C08D /* Assets.xcassets */,
 				7704DB5328AAD0250053C08D /* LaunchScreen.storyboard */,
@@ -80,7 +83,6 @@
 				368949E181B39D47CF42FC9C /* Pods-Lesson 1.debug.xcconfig */,
 				0BA4D9936821CDB39E4432D9 /* Pods-Lesson 1.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -190,6 +192,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7704DB4D28AAD0230053C08D /* ViewController.swift in Sources */,
+				77A617E628AFFC7100D6DDD0 /* EmptyFile.swift in Sources */,
 				7704DB4928AAD0230053C08D /* AppDelegate.swift in Sources */,
 				7704DB4B28AAD0230053C08D /* SceneDelegate.swift in Sources */,
 			);
